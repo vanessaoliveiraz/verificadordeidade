@@ -1,0 +1,28 @@
+body {
+    background-color: plum;
+    font-family: arial 20pt;
+}
+
+header {
+    color: black;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.782);
+}
+
+footer {
+color: brown;
+text-align: center;
+font-style: italic;
+}
+
+img {
+    text-align: center;
+}
